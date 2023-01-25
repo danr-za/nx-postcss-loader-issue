@@ -6,6 +6,7 @@ export function App() {
   return (
     <>
       <NxWelcome title="app" />
+      <div className={styles['image-bg']} />
       <div />
     </>
   );
